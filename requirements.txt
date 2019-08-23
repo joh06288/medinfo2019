@@ -1,0 +1,10 @@
+pandas==0.24.1
+numpy==1.14.2
+seaborn==0.8.1
+matplotlib
+plotly
+geopandas==0.3.0
+pyshp==1.2.10
+shapely==1.6.3
+xlrd
+scikit-learn
